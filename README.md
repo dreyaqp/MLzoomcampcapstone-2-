@@ -76,17 +76,14 @@ Depression is a significant mental health issue worldwide. Research shows that f
   * R² Score
 
 
+## Quickstart (minimal)
+Use Docker (recommended, ensures correct Python and deps):
 
-```
-capstone2/
-├── data/
-│   ├── raw/           # Original dataset
-│   └── processed/     # Cleaned numeric dataset
-├── notebooks/         # EDA and modeling notebooks
-├── src/               # Scripts for preprocessing and modeling
-├── models/            # Saved models
-├── results/           # Evaluation metrics, plots
-└── README.md
+docker build -t depression-api:latest .
+# Run the container
+docker run -p 8000:8000 depression-api:latest
+
+
 ```
 
 

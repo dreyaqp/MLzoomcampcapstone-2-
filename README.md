@@ -1,8 +1,4 @@
 # MLzoomcampcapstone-2-
-Here’s a **professional, structured README** you can use for your GitHub ML project on *Family History of Depression*. I’ve tailored it to be clear, concise, and aligned with best practices for ML repositories. You can copy it into `README.md` and edit details like dataset source, author, or project links.
-
----
-
 # Family History of Depression Prediction
 
 ## Project Overview

@@ -19,9 +19,7 @@ This project explores machine learning techniques to predict whether an individu
 4. [Modeling](#modeling)
 5. [Evaluation Metrics](#evaluation-metrics)
 6. [Folder Structure](#folder-structure)
-7. [Usage](#usage)
-8. [Future Work](#future-work)
-9. [License](#license)
+
 
 ---
 
@@ -91,8 +89,4 @@ capstone2/
 └── README.md
 ```
 
----
 
-, and example results** so it looks professional and ready to showcase.
-
-Do you want me to do that next?

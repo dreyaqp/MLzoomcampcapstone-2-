@@ -59,7 +59,7 @@ Depression is a significant mental health issue worldwide. Research shows that f
 * Pipeline:
 
   ```python
-  Pipeline([
+  baseline_model = Pipeline([
       ('imputer', SimpleImputer(strategy='median')),
       ('scaler', StandardScaler()),
       ('lr', LinearRegression())

@@ -19,6 +19,8 @@ This project explores machine learning techniques to predict whether an individu
 4. [Modeling](#modeling)
 5. [Evaluation Metrics](#evaluation-metrics)
 6. [Folder Structure](#folder-structure)
+7. [Quickstart](#quick_start)
+
 
 
 ---
@@ -78,11 +80,13 @@ Depression is a significant mental health issue worldwide. Research shows that f
 
 ## Quickstart (minimal)
 Use Docker (recommended, ensures correct Python and deps):
-
+```
 docker build -t depression-api:latest .
-# Run the container
-docker run -p 8000:8000 depression-api:latest
+```
+### Run the container
+```
 
+docker run -p 8000:8000 depression-api:latest
 
 ```
 
